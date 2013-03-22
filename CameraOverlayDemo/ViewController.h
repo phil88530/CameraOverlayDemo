@@ -10,4 +10,5 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)showCamera:(id)sender;
 @end

@@ -10,4 +10,5 @@
 
 @interface OverlayView : UIView
 
+@property (strong, nonatomic) IBOutlet UILabel *demoLabel;
 @end
